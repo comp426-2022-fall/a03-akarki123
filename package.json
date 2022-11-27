@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/comp426-2022-fall/a03-akarki123#readme",
   "bin": {
-	  "roll-dice": "./bin/cli.js"
+    "roll-dice": "./bin/cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7"
   }
 }
